@@ -511,6 +511,10 @@ app.on('ready', () => {
       })
     })
 
+    ipcMain.on(messages.GOT_CANVAS_FINGERPRINTING, (e, details) => {
+      console.log('got canvas fingerprint block', details)
+    })
+
     // Setup the crash handling
     CrashHerald.init()
 
