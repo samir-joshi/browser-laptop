@@ -1,5 +1,8 @@
 #Prerequisites  
-##Windows  
+##Windows  - 64 bit
+
+At this point, we are not releaseing 32 bit builds.
+
 Ensure you have the following installed:  
 
 * [Node.js 5+](https://nodejs.org/en/)
