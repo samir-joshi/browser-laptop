@@ -1,5 +1,8 @@
 #Prerequisites  
-##Windows  
+##Windows
+
+The instructions are for 64 bit Winodes. We are not yet supporting 32 bit Windows build.
+
 Ensure you have the following installed:  
 
 * [Node.js 5+](https://nodejs.org/en/)
